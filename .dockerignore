@@ -1,0 +1,15 @@
+.vscode/
+.git/
+.gitignore
+.env.example
+.editorconfig
+.prettierignore
+.dockerignore
+docker-compose.yml
+Dockerfile
+README.md
+
+*.memory-card.json
+
+node_modules/
+dist/
